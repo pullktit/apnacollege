@@ -1,2 +1,3 @@
 # apnacollege
-this i s my first git repository
+this i s my first git repository.
+Author - pulkit 
